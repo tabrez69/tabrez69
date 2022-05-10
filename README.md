@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tabrez Ahmad</h1>
-<h3 align="center">Computer Science & Engineering Sophomore_ at IES College Of Technology(BHOPAL-462001,M.P,INDIA)| Front End Development👨🏻‍💻|C/C++,JAVA,python🐍|Competitive programmer👨‍💻|Open Source Contributor 📝|Technical Writer |</h3>
+<h3 align="center">Computer Science & Engineering Sophomore_ at IES College Of Technology(BHOPAL-462001,M.P,INDIA)|C/C++,JAVA,python🐍|Competitive programmer👨‍💻|Open Source Contributor 📝|Technical Writer |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tabrez69&label=Profile%20views&color=0e75b6&style=flat" alt="tabrez69" /> </p>
 
-- 🔭 I’m currently working on **Android app Development/Competitive Programming**
+- 🔭 I’m currently working on **Java GUI Application Development**
 
 - Explore my portfolio website **https://tabrez69.github.io/Tabrez%20Ahmad/**
 
-- 👯 I’m Currently Learning **Data Structures For C.P**
+- 👯 I’m Currently Learning **Data Structures and Algorithms**
 
 - 🤝 I’m looking for help with **For any Open Source Project**
 
